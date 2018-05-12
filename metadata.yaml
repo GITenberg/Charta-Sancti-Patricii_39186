@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39186#Charta-Sancti-Patricii
 gutenberg_issued: '2012-03-17'
 gutenberg_type: Text
 identifiers:
