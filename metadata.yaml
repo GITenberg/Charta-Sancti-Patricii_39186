@@ -1,0 +1,28 @@
+_repo: Charta-Sancti-Patricii_39186
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Patrick, Saint
+    aliases:
+    - Padraigh, Naomh
+    - Ireland, Saint Patrick of
+    - Pádraigh, Naomh
+    gutenberg_agent_id: '39618'
+    url: http://www.gutenberg.org/2009/agents/39618
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39186'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patrick, Saint, 373?-463?'
+- !lcc 'BX'
+title: Charta Sancti Patricii
+url: http://www.gutenberg.org/ebooks/39186
